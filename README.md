@@ -24,13 +24,21 @@ Exécutez le fichier 2emeProjetSFSD.exe dans le répertoire extrait.
 Une fois le programme lancé, vous accéderez au menu principal proposant plusieurs options pour gérer les fichiers et les enregistrements :
 
 Créer un fichier : Crée un nouveau fichier en mode contigu ou chaîné.
+
 Ajouter un enregistrement : Ajoute des enregistrements à un fichier existant.
+
 Renommer un fichier : Change le nom d'un fichier existant.
+
 Supprimer un fichier : Supprime un fichier et libère ses blocs.
+
 Rechercher un enregistrement par ID : Recherche et affiche les enregistrements par leur ID.
+
 Supprimer un enregistrement : Supprime un enregistrement par ID, soit logiquement, soit physiquement.
+
 Afficher les blocs : Affiche l'état actuel des blocs de mémoire.
+
 Afficher les métadonnées : Montre les métadonnées des fichiers existants.
+
 Quitter : Termine le programme.
 
 4.Navigation dans le Menu
