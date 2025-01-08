@@ -1,16 +1,8 @@
 Voici comment utiliser le programme :
 
-Compilation :
+Telechargement & Execution :
 
-Utilisez un compilateur C tel que GCC pour compiler le programme avec la commande suivante :
-
-gcc -o 2emeProjetSFSD 2emeProjetSFSD.c
-
-Exécution :
-
-Lancez le programme compilé avec la commande :
-
-./simulateur_gestion
+Telechargez le fichier 2emeProjetSFSD.exe puis le lancer
 
 Menu principal :
 
@@ -29,3 +21,8 @@ Quitter : Terminez le programme.
 Navigation dans le menu :
 
 Choisissez une option en entrant son numéro correspondant dans le menu, puis suivez les instructions affichées pour effectuer l'opération désirée.
+
+
+POUR TOUTE MODIFICATION : 
+
+veuillez telechargez le fichier.cpp pour y acceder au code directement 
