@@ -1,6 +1,7 @@
 Voici comment utiliser le programme :
 
-Téléchargement et Extraction
+1.Téléchargement et Extraction
+
 Téléchargez le projet :
 
 Rendez-vous sur la page du projet.
@@ -11,10 +12,14 @@ Cliquez sur le bouton vert "<> Code", puis sélectionnez "Download ZIP".
 Extrayez l'archive :
 
 Décompressez le fichier ProjetSFSD-main.zip dans un répertoire de votre choix.
-Exécution
+
+2.Exécution
+
 Lancez le programme :
 Exécutez le fichier 2emeProjetSFSD.exe dans le répertoire extrait.
-Menu Principal
+
+3.Menu Principal
+
 Une fois le programme lancé, vous accéderez au menu principal proposant plusieurs options pour gérer les fichiers et les enregistrements :
 
 Créer un fichier : Crée un nouveau fichier en mode contigu ou chaîné.
@@ -26,8 +31,12 @@ Supprimer un enregistrement : Supprime un enregistrement par ID, soit logiquemen
 Afficher les blocs : Affiche l'état actuel des blocs de mémoire.
 Afficher les métadonnées : Montre les métadonnées des fichiers existants.
 Quitter : Termine le programme.
-Navigation dans le Menu
+
+4.Navigation dans le Menu
+
 Choisissez une option en entrant son numéro correspondant dans le menu.
 Suivez les instructions affichées pour effectuer l'opération désirée.
-Modification du Code
+
+5.Modification du Code
+
 Pour toute modification, ouvrez le fichier 2emeProjetSFSD.cpp dans un éditeur compatible (comme Dev-C++) pour accéder au code source et apporter vos modifications.
