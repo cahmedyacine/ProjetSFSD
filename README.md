@@ -2,7 +2,9 @@ Voici comment utiliser le programme :
 
 Telechargement & Execution :
 
-Telechargez le fichier 2emeProjetSFSD.exe puis le lancer
+Telechargez le fichier git en cliquant sur le boutton vert " </>Code " puis sur Download ZIP
+
+![image](https://github.com/user-attachments/assets/7275810e-8b95-4440-bbf6-1b6cc66a451a)
 
 Menu principal :
 
