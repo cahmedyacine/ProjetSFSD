@@ -4,7 +4,7 @@ Compilation :
 
 Utilisez un compilateur C tel que GCC pour compiler le programme avec la commande suivante :
 
-gcc -o simulateur_gestion simulateur_gestion.c
+gcc -o 2emeProjetSFSD 2emeProjetSFSD.c
 
 Exécution :
 
