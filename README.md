@@ -16,6 +16,7 @@ Décompressez le fichier ProjetSFSD-main.zip dans un répertoire de votre choix.
 2.Exécution
 
 Lancez le programme :
+
 Exécutez le fichier 2emeProjetSFSD.exe dans le répertoire extrait.
 
 3.Menu Principal
