@@ -2,7 +2,7 @@ Voici comment utiliser le programme :
 
 Telechargement & Extraction :
 
-Veuillez telecharger le fichier git en cliquant sur le boutton vert " </>Code " puis sur Download ZIP
+Veuillez telecharger le fichier git en cliquant sur le boutton vert "<> Code" puis sur Download ZIP
 
 ![image](https://github.com/user-attachments/assets/7275810e-8b95-4440-bbf6-1b6cc66a451a)
 
